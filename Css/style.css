@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 80px;
+    background-color: rgb(147, 247, 147);
+}
+h2{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 70px;
+    background-color: rgb(247, 227, 147);
+}
